@@ -1,1 +1,1 @@
-REST API for Student Transcript made using NodeJS and MongoDB
+REST API for CRUD operations on a student database.
